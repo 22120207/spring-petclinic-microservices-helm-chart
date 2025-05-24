@@ -10,7 +10,7 @@ images:
   vetsService:
     tag: v1.2.3
   visitsService:
-    tag: latest
+    tag: v1.2.3
   apiGateway: 
     tag: latest
   discoveryServer:
